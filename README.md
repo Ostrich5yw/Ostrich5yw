@@ -9,10 +9,10 @@
 
 
 **Languages and Tools:**  
-<code><img height="35" width="35" src="https://github.com/Ostrich5yw/Ostrich5yw/blob/main/icon/java2.jpg"></code>
-<code><img height="35" width="35" src="https://github.com/Ostrich5yw/Ostrich5yw/blob/main/icon/go.jpg"></code>
-<code><img height="35" width="35" src="https://github.com/Ostrich5yw/Ostrich5yw/blob/main/icon/git.jpg"></code>
-<code><img height="35" width="35" src="https://github.com/Ostrich5yw/Ostrich5yw/blob/main/icon/docker.jpg"></code>
+<code><img height="35" width="62" src="https://github.com/Ostrich5yw/Ostrich5yw/blob/main/icon/java2.jpg"></code>
+<code><img height="35" width="62" src="https://github.com/Ostrich5yw/Ostrich5yw/blob/main/icon/go.jpg"></code>
+<code><img height="35" width="62" src="https://github.com/Ostrich5yw/Ostrich5yw/blob/main/icon/git.jpg"></code>
+<code><img height="35" width="62" src="https://github.com/Ostrich5yw/Ostrich5yw/blob/main/icon/docker.jpg"></code>
 
 
 
