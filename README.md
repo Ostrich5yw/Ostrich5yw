@@ -9,8 +9,11 @@
 
 
 **Languages and Tools:**  
-<code><img height="35" src="https://github.com/Ostrich5yw/Ostrich5yw/blob/main/icon/Java.jpg"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
+<code><img height="35" width="35" src="https://github.com/Ostrich5yw/Ostrich5yw/blob/main/icon/java2.jpg"></code>
+<code><img height="35" width="35" src="https://github.com/Ostrich5yw/Ostrich5yw/blob/main/icon/go.jpg"></code>
+<code><img height="35" width="35" src="https://github.com/Ostrich5yw/Ostrich5yw/blob/main/icon/git.jpg"></code>
+<code><img height="35" width="35" src="https://github.com/Ostrich5yw/Ostrich5yw/blob/main/icon/docker.jpg"></code>
+
 
 
 
