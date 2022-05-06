@@ -5,7 +5,7 @@
 
 ## Hi there, I'm wuYunwen! 👋
 
-- 😄 后端开发工程师
+- 😄 西安理工大学硕士研究生
 
 
 **Languages and Tools:**  
@@ -19,6 +19,7 @@ These are some of the technologies and tools that I work with:
 
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
+![Go](https://img.shields.io/badge/-DeepLearing-black?style=flat-square&logo=deeplearing)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
