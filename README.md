@@ -9,10 +9,12 @@
 
 
 **Languages and Tools:**  
-<code><img height="35" width="62" src="https://github.com/Ostrich5yw/Ostrich5yw/blob/main/icon/java2.jpg"></code>
-<code><img height="35" width="62" src="https://github.com/Ostrich5yw/Ostrich5yw/blob/main/icon/go.jpg"></code>
-<code><img height="35" width="62" src="https://github.com/Ostrich5yw/Ostrich5yw/blob/main/icon/git.jpg"></code>
-<code><img height="35" width="62" src="https://github.com/Ostrich5yw/Ostrich5yw/blob/main/icon/docker.jpg"></code>
+
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![Go](https://img.shields.io/badge/-Go-blue?style=flat-square&logo=go)
+![Git](https://img.shields.io/badge/-Git-yellow?style=flat-square&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-green?style=flat-square&logo=docker)
+
 
 
 
@@ -20,10 +22,11 @@
 ## ⚡ Technologies
 
 These are some of the technologies that I work with:
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+<code><img height="35" width="62" src="https://github.com/Ostrich5yw/Ostrich5yw/blob/main/icon/hadoop.jpg"></code>
+<code><img height="35" width="62" src="https://github.com/Ostrich5yw/Ostrich5yw/blob/main/icon/Spark.jpg"></code>
+<code><img height="35" width="62" src="https://github.com/Ostrich5yw/Ostrich5yw/blob/main/icon/zookeeper.jpg"></code>
+<code><img height="35" width="62" src="https://github.com/Ostrich5yw/Ostrich5yw/blob/main/icon/docker.jpg"></code>
 
 
 ## 📚 Most Use
