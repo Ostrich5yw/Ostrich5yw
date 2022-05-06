@@ -6,7 +6,7 @@
 ## Hi there, I'm wuYunwen! 👋
 
 - 😄 西安理工大学硕士研究生
-- ✍️ 我的博客：https://blog.csdn.net/qq_42606136
+- ✍️ 博客：https://blog.csdn.net/qq_42606136
 
 
 **Languages and tools:**  
