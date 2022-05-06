@@ -20,7 +20,7 @@
 These are some of the technologies that I learned:
 
 <code><img height="40" src="https://github.com/Ostrich5yw/Ostrich5yw/blob/main/icon/hadoop.jpg"></code>
-<code><img height="40" src="https://github.com/Ostrich5yw/Ostrich5yw/blob/main/icon/Spark2.jpg"></code>
+<code><img height="40" src="https://github.com/Ostrich5yw/Ostrich5yw/blob/main/icon/Spark1.jpg"></code>
 <code><img height="40" src="https://github.com/Ostrich5yw/Ostrich5yw/blob/main/icon/zookeeper.jpg"></code>
 <code><img height="40" src="https://github.com/Ostrich5yw/Ostrich5yw/blob/main/icon/Kafka.jpg"></code>
 <code><img height="40" src="https://github.com/Ostrich5yw/Ostrich5yw/blob/main/icon/docker.jpg"></code>
