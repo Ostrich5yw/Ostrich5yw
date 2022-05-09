@@ -20,12 +20,12 @@
 
 These are some of the technologies that I learned:
 
-<code><img height="40" src="https://github.com/Ostrich5yw/Ostrich5yw/blob/main/icon/hadoop.jpg"></code>
-<code><img height="40" src="https://gitee.com/Ostrich5ywtt/Ostrich5yw/blob/main/icon/Spark1.jpg"></code>
-<code><img height="40" src="https://github.com/Ostrich5yw/Ostrich5yw/blob/main/icon/zookeeper.jpg"></code>
-<code><img height="40" src="https://github.com/Ostrich5yw/Ostrich5yw/blob/main/icon/Kafka.jpg"></code>
-<code><img height="40" src="https://github.com/Ostrich5yw/Ostrich5yw/blob/main/icon/docker.jpg"></code>
-<code><img height="40" src="https://github.com/Ostrich5yw/Ostrich5yw/blob/main/icon/DeepLearning.jpg"></code>
+<code><img height="40" src="https://userblink.csdnimg.cn/20220509/qq_42606136/pic/dcf19f5bc243e46ad44f583928a68201-2.jpg"></code>
+<code><img height="40" src="https://userblink.csdnimg.cn/20220509/qq_42606136/pic/6e8de44a30df838028ce334faa6a4b4e-4.jpg"></code>
+<code><img height="40" src="https://userblink.csdnimg.cn/20220509/qq_42606136/pic/37bb93f3ab7d031456efaaee64324ec3-5.jpg"></code>
+<code><img height="40" src="https://userblink.csdnimg.cn/20220509/qq_42606136/pic/4610f9ad4ef5caa6fabde9ab8221f8f8-3.jpg"></code>
+<code><img height="40" src="https://userblink.csdnimg.cn/20220509/qq_42606136/pic/be1b493da875eff87adef72fd23d79c6-1.jpg"></code>
+<code><img height="40" src="https://userblink.csdnimg.cn/20220509/qq_42606136/pic/e4843d424d2a81ac840407aa7ddd08e4-0.jpg"></code>
 
 
 These are some of the technologies that I've used:
